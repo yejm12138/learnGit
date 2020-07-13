@@ -15,3 +15,6 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 ### pr
 向远端推送分支, 创建 pr, 合并 pr  
 与远端 master 分支同步 git pull origin master  
+
+如果没有向远端仓库推送的权限, 提交 pr 的步骤  
+fork, git clone 到本地, 推送分支, 创建 pr, 等待合并  
