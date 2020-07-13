@@ -19,4 +19,4 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 如果没有向远端仓库推送的权限, 提交 pr 的步骤  
 fork, git clone 到本地, 推送分支, 创建 pr, 等待合并  
 
-c
+e
